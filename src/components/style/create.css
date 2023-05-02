@@ -1,0 +1,6 @@
+.outer{
+    border: 2px solid rgb(154, 154, 154);
+    box-shadow: 0px 0xp 5px 5px rgb(177, 176, 176);
+    margin: 20px auto;
+    padding: 10px;
+}
